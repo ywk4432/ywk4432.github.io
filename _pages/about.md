@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the Department of Automation at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), under the supervision of [Prof. Jian Yang](http://staff.ustc.edu.cn/~jianyang/). I completed my undergraduate studies in [the School of the Gifted Young (SGY), USTC](https://sgy.ustc.edu.cn/). My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
+I am currently a Ph.D. candidate in the Department of Automation at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), under the supervision of [Prof. Jian Yang](http://staff.ustc.edu.cn/~jianyang/). I completed my undergraduate studies in [the School of the Gifted Young (SGY), USTC](https://sgy.ustc.edu.cn/). 
+
+My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
 ## 学术论文
 
