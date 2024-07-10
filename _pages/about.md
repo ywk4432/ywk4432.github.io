@@ -17,7 +17,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
       <img src="https://project-image-link-here.png" alt="Real3D-Portrait" width="300"/>
     </td>
     <td>
-      <h1>ICLR 2024 Spotlight</h1>
+      <h1>IEEE Transactions on Communications</h1>
       <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
       <p><strong>Authors:</strong> He, Huasen and Yuan, Wenke and Chen, Shuangwu and Jiang, Xiaofeng and Yang, Feng and Yang, Jian</p>
       <p><strong>Conference:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
