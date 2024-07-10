@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// 自定义头像样式
+.avatar {
+    width: 150px; /* 您可以根据需要调整宽度 */
+    height: 150px; /* 确保高度与宽度相等 */
+    border-radius: 50%; /* 将图片裁剪为圆形 */
+    object-fit: cover; /* 确保图片内容填满圆形区域 */
+}
