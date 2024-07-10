@@ -28,6 +28,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
       <ul>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
+        <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
       </ul>
     </td>
   </tr>
