@@ -18,13 +18,11 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
     </td>
     <td>
       <h1>ICLR 2024 Spotlight</h1>
-      <h2><a href="https://project-link-here.com">Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis</a></h2>
-      <p><strong>Authors:</strong> Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, Rongjie Huang, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao</p>
-      <p><strong>Conference:</strong> ICLR 2024 Spotlight</p>
-      <p><a href="https://project-link-here.com">Project Page</a> : ⭐ 787</p>
+      <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
+      <p><strong>Authors:</strong> He, Huasen and Yuan, Wenke and Chen, Shuangwu and Jiang, Xiaofeng and Yang, Feng and Yang, Jian</p>
+      <p><strong>Conference:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
       <ul>
-        <li>Real3D-Portrait 是一个基于NeRF的单图驱动说话人合成算法，它可以合成真实的头部、躯干、背景，以实现真实的视频效果。</li>
-        <li>它同时支持语音或视频两种驱动方式。</li>
+        <li>Inspired by the promising future of UAV BSs, this paper aims at proposing a distributed 3-dimensional (3D) trajectory design algorithm for multiple UAVs to optimize the system performance. We formulate the trajectory design problem as a multi-objective optimization problem to improve the user equipment (UE) access rate, ensure fair access opportunities, increase transmitted data volume and reduce energy consumption. Further inspired by the decision-making ability of deep reinforcement learning (DRL) in complex environments, we propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD, in which UAVs can explore both the optimal flight altitude and the potential UE distribution area in the iterative interactions with the environment, and then select the optimal flight trajectories to boost the network performance from multiple aspects. Extensive experimental results under different UE distributions have demonstrated that the proposed DMTD algorithm can find the optimal altitude to provide maximum coverage. Moreover, DMTD beats existing algorithms by providing high UE access rate, ensuring fair network service and increasing total transmitted data volume at the cost of a relatively low energy consumption.</li>
       </ul>
     </td>
   </tr>
