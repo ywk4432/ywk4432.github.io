@@ -17,10 +17,9 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
       <img src="https://project-image-link-here.png" alt="Real3D-Portrait" width="300"/>
     </td>
     <td>
-      <h1>IEEE Transactions on Communications</h1>
       <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
       <p><strong>Authors:</strong> Huasen He, <strong>Wenke Yuan<strong>, Shuangwu Chen, Xiaofeng Jiang, Feng Yang, Jian Yang</p>
-      <p><strong>Conference:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
+      <p><strong>Published in:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
       <ul>
         <li>Inspired by the promising future of UAV BSs, this paper aims at proposing a distributed 3-dimensional (3D) trajectory design algorithm for multiple UAVs to optimize the system performance. We formulate the trajectory design problem as a multi-objective optimization problem to improve the user equipment (UE) access rate, ensure fair access opportunities, increase transmitted data volume and reduce energy consumption. Further inspired by the decision-making ability of deep reinforcement learning (DRL) in complex environments, we propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD, in which UAVs can explore both the optimal flight altitude and the potential UE distribution area in the iterative interactions with the environment, and then select the optimal flight trajectories to boost the network performance from multiple aspects. Extensive experimental results under different UE distributions have demonstrated that the proposed DMTD algorithm can find the optimal altitude to provide maximum coverage. Moreover, DMTD beats existing algorithms by providing high UE access rate, ensuring fair network service and increasing total transmitted data volume at the cost of a relatively low energy consumption.</li>
       </ul>
