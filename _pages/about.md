@@ -16,7 +16,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
     <td style="border: none; vertical-align: top;">
       <img src="/images/dmtd.png" alt="DMTD" width="500"/>
     </td>
-    <td style="border: none; vertical-align: top; padding-left: 10px;">
+    <td style="border: none; padding-left: 10px;">
       <h3><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h3>
       <p><strong>Authors:</strong> Huasen He, <strong>Wenke Yuan</strong>, Shuangwu Chen, Xiaofeng Jiang, Feng Yang, Jian Yang</p>
       <p><strong>Published in:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
