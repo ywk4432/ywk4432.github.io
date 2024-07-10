@@ -10,6 +10,21 @@ redirect_from:
 I am currently a Ph.D. candidate in the Department of Automation at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), under the supervision of [Prof. Jian Yang](http://staff.ustc.edu.cn/~jianyang/). I completed my undergraduate studies in [the School of the Gifted Young (SGY), USTC](https://sgy.ustc.edu.cn/). My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
 ## 学术论文
+# ICLR 2024 Spotlight
+
+## [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://project-link-here.com)
+
+**Authors:** Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, Rongjie Huang, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao
+
+**Conference:** ICLR 2024 Spotlight
+
+[![Real3D-Portrait](https://project-image-link-here.png)](https://project-link-here.com)
+
+**Project Page** : [⭐ 787](https://project-link-here.com)
+
+- Real3D-Portrait 是一个基于NeRF的单图驱动说话人合成算法，它可以合成真实的头部、躯干、背景，以实现真实的视频效果。
+- 它同时支持语音或视频两种驱动方式。
+
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
