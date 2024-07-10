@@ -11,8 +11,8 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 
 ## 学术论文
 
-<table>
-  <tr>
+<table style="border: none;">
+  <tr style="border: none;">
     <td>
       <img src="/images/editing-talk.png" alt="DMTD" width="500"/>
     </td>
