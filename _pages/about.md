@@ -15,12 +15,23 @@ My research interests include UAV communication networks, multi-agent reinforcem
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
-      <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
+      <h3><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h3>
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <img src="/images/dmtd.png" alt="DMTD" width="300" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+      <table style="border-collapse: collapse; width: 100%; border: none;">
+        <tr style="border: none;">
+          <td style="border: none; text-align: center;">
+            <img src="/images/dmtd.png" alt="DMTD1" width="300" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); margin-bottom: 10px;"/>
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td style="border: none; text-align: center;">
+            <img src="/images/dmtd1.png" alt="DMTD2" width="300" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+          </td>
+        </tr>
+      </table>
     </td>
     <td style="border: none; vertical-align: top; padding-left: 10px;">
       <p><strong>Authors:</strong> Huasen He, <strong>Wenke Yuan</strong>, Shuangwu Chen, Xiaofeng Jiang, Feng Yang, Jian Yang</p>
@@ -28,11 +39,11 @@ My research interests include UAV communication networks, multi-agent reinforcem
       <ul>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
-        <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 
