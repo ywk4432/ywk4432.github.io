@@ -16,7 +16,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
-      <h2 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h2>
+      <h1 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h1>
     </td>
   </tr>
   <tr style="border: none;">
@@ -32,7 +32,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
-      <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
+      <h2 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
     </td>
   </tr>
   <tr style="border: none;">
@@ -62,5 +62,5 @@ My research interests include UAV communication networks, multi-agent reinforcem
 </table>
 
 # 教育经历
-- *2021.9 - 目前* **博士**，中国科学技术大学自动化系
-- *2017.8 - 2021.6* **本科**，中国科学技术大学少年班学院
+- *2021.9 - 目前*， **博士**，中国科学技术大学自动化系
+- *2017.8 - 2021.6*， **本科**，中国科学技术大学少年班学院
