@@ -16,7 +16,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
-      <h2><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h2>
+      <h2 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h2>
     </td>
   </tr>
   <tr style="border: none;">
