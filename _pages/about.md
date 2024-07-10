@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 
 My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
-# 学术论文
+# Academic Papers
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
@@ -61,6 +61,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
   </tr>
 </table>
 
-# 教育经历
-- *2021.9 - 目前*， **博士**，中国科学技术大学自动化系
-- *2017.8 - 2021.6*， **本科**，中国科学技术大学少年班学院
+# Education
+- *September 2021 - Present*, Ph.D. in Automation, University of Science and Technology of China
+- *August 2017 - June 2021*, Bachelor's Degree, School of the Gifted Young, University of Science and Technology of China
+
