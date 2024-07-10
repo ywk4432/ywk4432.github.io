@@ -14,7 +14,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 <table>
   <tr>
     <td>
-      <img src="/images/editing-talk.png" alt="DMTD" width="10000"/>
+      <img src="/images/editing-talk.png" alt="DMTD" width="50000"/>
     </td>
     <td>
       <h2><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
