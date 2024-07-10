@@ -28,7 +28,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
         </tr>
         <tr style="border: none;">
           <td style="border: none; text-align: center;">
-            <img src="/images/dmtd1.png" alt="DMTD2" width="300" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+            <img src="/images/dmtd2.png" alt="DMTD2" width="300" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
           </td>
         </tr>
       </table>
