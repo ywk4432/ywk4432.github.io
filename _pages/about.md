@@ -13,20 +13,24 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
-      <img src="/images/dmtd.png" alt="DMTD" width="500"/>
-    </td>
-    <td style="border: none; padding-left: 10px;">
+    <td style="border: none;" colspan="2">
       <h3><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h3>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <img src="/images/editing-talk.png" alt="DMTD" width="500"/>
+    </td>
+    <td style="border: none; vertical-align: top; padding-left: 10px;">
       <p><strong>Authors:</strong> Huasen He, <strong>Wenke Yuan</strong>, Shuangwu Chen, Xiaofeng Jiang, Feng Yang, Jian Yang</p>
       <p><strong>Published in:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
       <ul>
-        <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 
