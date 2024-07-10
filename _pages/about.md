@@ -32,7 +32,7 @@ My research interests include UAV communication networks, multi-agent reinforcem
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
-      <h2 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h2>
+      <h1 style="margin: 0; padding: 0;"><a href="https://ieeexplore.ieee.org/document/10422956">Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design</a></h1>
     </td>
   </tr>
   <tr style="border: none;">
