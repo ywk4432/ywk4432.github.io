@@ -26,6 +26,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
       <p><strong>Published in:</strong> IEEE Transactions on Communications ( Volume: 72, Issue: 6, June 2024)</p>
       <ul>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
+        <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
       </ul>
     </td>
   </tr>
