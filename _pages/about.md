@@ -59,3 +59,6 @@ My research interests include UAV communication networks, multi-agent reinforcem
   </tr>
 </table>
 
+# 教育经历
+- 2017.8 - 2021.6 中国科学技术大学少年班学院
+- 2021.9 - 目前 中国科学技术大学自动化系
