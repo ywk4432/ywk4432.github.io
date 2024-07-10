@@ -11,7 +11,22 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 
 My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
-## 学术论文
+# 学术论文
+
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" colspan="2">
+      <h2><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h2>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
+      <p><strong>Authors:</strong> Huasen He; <strong>Wenke Yuan</strong>; Yunpeng Hou; Shuangwu Chen; Xiaofeng Jiang; Rangang Zhu; Jian Yang</p>
+      <p><strong>Published in:</strong> IEEE Transactions on Communications ( Early Access )</p>
+    </td>
+  </tr>
+</table>
+
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
@@ -40,21 +55,6 @@ My research interests include UAV communication networks, multi-agent reinforcem
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
         <li>We propose a DRL based trajectory design algorithm for multiple UAVs, namely DMTD.</li>
       </ul>
-    </td>
-  </tr>
-</table>
-
-
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;" colspan="2">
-      <h2><a href="https://ieeexplore.ieee.org/document/10540151">Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks</a></h2>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
-      <p><strong>Authors:</strong> Huasen He; <strong>Wenke Yuan</strong>; Yunpeng Hou; Shuangwu Chen; Xiaofeng Jiang; Rangang Zhu; Jian Yang</p>
-      <p><strong>Published in:</strong> IEEE Transactions on Communications ( Early Access )</p>
     </td>
   </tr>
 </table>
