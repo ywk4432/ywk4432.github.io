@@ -19,7 +19,7 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
   </tr>
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <img src="/images/dmtd.png" alt="DMTD"/>
+      <img src="/images/dmtd.png" alt="DMTD" width="450"/>
     </td>
     <td style="border: none; vertical-align: top; padding-left: 10px;">
       <p><strong>Authors:</strong> Huasen He, <strong>Wenke Yuan</strong>, Shuangwu Chen, Xiaofeng Jiang, Feng Yang, Jian Yang</p>
