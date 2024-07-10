@@ -62,6 +62,6 @@ My research interests include UAV communication networks, multi-agent reinforcem
 </table>
 
 # Education
-- *September 2021 - Present*, Ph.D. in Automation, University of Science and Technology of China
-- *August 2017 - June 2021*, Bachelor's Degree, School of the Gifted Young, University of Science and Technology of China
+- *September 2021 - Present*, **Ph.D.**, in Automation, University of Science and Technology of China
+- *August 2017 - June 2021*, **B.D.**, in School of the Gifted Young, University of Science and Technology of China
 
