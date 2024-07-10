@@ -12,7 +12,6 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
 ## 学术论文
-
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
     <td style="border: none;" colspan="2">
