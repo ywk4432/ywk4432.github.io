@@ -11,6 +11,13 @@ I am currently a Ph.D. candidate in the Department of Automation at the School o
 
 My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.
 
+<div>
+  <h2>Professional Summary</h2>
+  <p>I am currently a Ph.D. candidate in the Department of Automation at the School of Information Science and Technology, <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, under the supervision of <a href="https://www.ustc.edu.cn/professor">Prof. Jian Yang</a>. I completed my undergraduate studies in the <a href="https://www.ustc.edu.cn/sgy">School of the Gifted Young (SGY), USTC</a>.</p>
+  <p>My research interests include UAV communication networks, multi-agent reinforcement learning, and deep transfer reinforcement learning. I have published two high-level journal papers, where I have undertaken major roles in the research work.</p>
+</div>
+
+
 # 学术论文
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
