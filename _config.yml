@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Homepage"
+title: "Wenke Yuan"
 title_separator: "-"
 name: &name "Wenke Yuan"
-description: &description "personal description"
+description: &description "Ph.D. candidate at USTC working on intelligent multi-UAV systems, reinforcement learning, and LLM-empowered autonomous collaboration."
 url: https://ywk4432.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "ywk4432/ywk4432.github.io"
@@ -22,12 +22,12 @@ repository: "ywk4432/ywk4432.github.io"
 author:
   # Biographic information
   avatar: "ywk1.png"
-  name: "Wenke Yuan（袁文科）"
+  name: "Wenke Yuan"
   pronouns: # example: "she/her"
-  bio: "PhD student in USTC"
-  location: " Hefei, Anhui"
+  bio: "Ph.D. candidate at USTC; Visiting Scholar at NUS"
+  location: "Hefei, China"
   employer: # "Red Brick University"
-  uri: # URL
+  uri: "https://ywk4432.github.io"
   email: "ywk4432@mail.ustc.edu.cn"
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "https://github.com/ywk4432"
+  github: "ywk4432"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
