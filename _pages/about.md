@@ -66,6 +66,6 @@ I developed a simulation experiment system for multi-agent algorithms in multi-U
 - _Sep. 2021 - Present_, **Ph.D. in Control Science and Engineering**, University of Science and Technology of China. Expected graduation: Sep. 2026.
 - _Sep. 2017 - Jul. 2021_, **B.S.**, School of the Gifted Young, University of Science and Technology of China.
 
-## Awards Highlights
+# Awards Highlights
 
 {% include awards_gallery.html %}
