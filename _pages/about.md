@@ -41,8 +41,8 @@ During my Ph.D., I have been engaged in several major engineering projects. In 2
 2. G. Cao, **W. Yuan**, Y. Hou, et al., "Dynamic Mask Enhanced Intelligent Multi-UAV Deployment for Urban Vehicular Networks," *IEEE ICC*, 2026.
 3. Q. Ma, H. He, Y. Hou, **W. Yuan**, et al., "Novelty-driven UAV Swarm Target Search based on Multi-Agent Reinforcement Learning," *ICCC*, 2025. **Best Student Paper Award**.
 4. S. Xue, Y. Zheng, **W. Yuan**, et al., "Hybrid Artificial Potential Field based UAV Patrol Inspection for Uncertain Target Events in Obstacle Environments," *ICCC*, 2025.
-5. G. Cao, **W. Yuan**, H. He*, Y. Hou, R. Zhu, and D. Luo, "Graph Attention Enhanced Multi-UAV Trajectory Planning: A Multi-Agent Deep Reinforcement Learning Algorithm," *ICAUS*, 2024. **Best Paper Award**.
-6. D. Luo, Z. Ye, R. Zhu, **W. Yuan**, Y. Hou, and H. He*, "Online Transmission Optimization for Satellite-Aided Multi-User Scalable Video Streaming," *ICAUS*, 2024. **Best Poster Award**.
+5. G. Cao, **W. Yuan**, H. He\*, Y. Hou, R. Zhu, and D. Luo, "Graph Attention Enhanced Multi-UAV Trajectory Planning: A Multi-Agent Deep Reinforcement Learning Algorithm," *ICAUS*, 2024. **Best Paper Award**.
+6. D. Luo, Z. Ye, R. Zhu, **W. Yuan**, Y. Hou, and H. He\*, "Online Transmission Optimization for Satellite-Aided Multi-User Scalable Video Streaming," *ICAUS*, 2024. **Best Poster Award**.
 7. X. Liu, J. Yang, **W. Yuan**, et al., "RCEFL: Reputation-based Communication-aware Optimization of Federated Learning," *IEEE ICCT*, 2024.
 8. K. Sun, K. Wu, **W. Yuan**, et al., "SSGAR: A Genetic-based Routing Solution for Aeronautical Networks Aided by Software Defined Satellite Network," *ACACML*, 2023.
 
