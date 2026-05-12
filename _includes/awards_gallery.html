@@ -1,0 +1,62 @@
+<div class="awards-gallery section">
+    <h2>荣誉与奖项</h2>
+    <div class="awards-grid">
+        {% for f in site.static_files %}
+        {% if f.path contains 'images/awards' %}
+        <figure class="award-item">
+            <img src="{{ f.path | relative_url }}" alt="{{ f.name | split:'.' | first }}">
+            <figcaption>{{ f.name | split:'.' | first | replace:'-',' ' | capitalize }}</figcaption>
+        </figure>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+    .awards-gallery {
+        max-width: 1100px;
+        margin: 2.5rem auto;
+        padding: 0 1rem
+    }
+
+    .awards-gallery h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem
+    }
+
+    .awards-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 1rem
+    }
+
+    .award-item {
+        background: #fff;
+        border: 1px solid #eee;
+        padding: 0.5rem;
+        border-radius: 6px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden
+    }
+
+    .award-item img {
+        width: 100%;
+        height: 160px;
+        object-fit: cover;
+        border-radius: 4px
+    }
+
+    .award-item figcaption {
+        margin-top: 0.5rem;
+        font-size: 0.95rem;
+        color: #333;
+        text-align: center
+    }
+
+    @media (max-width:600px) {
+        .award-item img {
+            height: 140px
+        }
+    }
+</style>
