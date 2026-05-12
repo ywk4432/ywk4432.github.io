@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include homepage_hero.html %}
+
 I am a Ph.D. candidate at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I completed my undergraduate studies in the [School of the Gifted Young, USTC](https://sgy.ustc.edu.cn/). Since June 2025, I have been conducting a research visit at the School of Computing, National University of Singapore, supported by the Outstanding Doctoral Dissertation Foundation Fellowship from USTC.
 
 My research focuses on intelligent multi-Unmanned Aerial Vehicle (UAV) systems for assisted communication. I work on Multi-Agent Reinforcement Learning (MARL), Deep Reinforcement Learning (DRL), Large Language Model (LLM) empowered decision systems, and transfer reinforcement learning for cooperative trajectory planning, resource allocation, and efficient UAV swarm training. My goal is to build smarter and more efficient aerial communication networks for edge mobile intelligence.
