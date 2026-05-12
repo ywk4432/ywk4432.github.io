@@ -1,0 +1,259 @@
+{% assign awards = site.static_files | where_exp: "file", "file.path contains 'images/awards'" %}
+
+<section class="home-hero">
+    <div class="home-hero__grid">
+        <div class="home-hero__copy">
+            <p class="home-hero__eyebrow">Ph.D. Candidate at USTC · Visiting Scholar at NUS</p>
+            <h2 class="home-hero__title">Wenke Yuan</h2>
+            <p class="home-hero__lead">
+                I work on intelligent multi-UAV systems, multi-agent reinforcement learning, deep reinforcement
+                learning,
+                and LLM-empowered decision making for next-generation aerial communication networks.
+            </p>
+
+            <div class="home-hero__actions">
+                <a class="home-hero__button home-hero__button--primary" href="mailto:{{ site.author.email }}">Email</a>
+                <a class="home-hero__button" href="{{ site.author.googlescholar }}">Google Scholar</a>
+                <a class="home-hero__button" href="{{ site.author.orcid }}">ORCID</a>
+                <a class="home-hero__button" href="https://github.com/{{ site.author.github }}">GitHub</a>
+            </div>
+        </div>
+
+        <aside class="home-hero__panel" aria-label="Quick facts">
+            <div class="home-hero__facts">
+                <div class="home-hero__fact">
+                    <span>Current role</span>
+                    <strong>Visiting Scholar, School of Computing, NUS</strong>
+                </div>
+                <div class="home-hero__fact">
+                    <span>Home institution</span>
+                    <strong>USTC</strong>
+                </div>
+                <div class="home-hero__fact">
+                    <span>Core themes</span>
+                    <strong>MARL, DRL, LLM-assisted planning</strong>
+                </div>
+            </div>
+
+            <div class="home-hero__preview">
+                {% for file in awards limit:3 %}
+                <figure class="home-hero__thumb">
+                    <img src="{{ file.path | relative_url }}"
+                        alt="{{ file.name | split:'.' | first | replace:'-',' ' }}" loading="lazy">
+                </figure>
+                {% endfor %}
+            </div>
+        </aside>
+    </div>
+</section>
+
+<section class="home-highlights">
+    <div class="home-highlights__grid">
+        <article class="home-highlights__card">
+            <h3>Research Focus</h3>
+            <p>Trajectory planning, resource allocation, and cooperative control for multi-UAV systems in assisted
+                communications.</p>
+        </article>
+        <article class="home-highlights__card">
+            <h3>Recent Recognition</h3>
+            <p>2025 Future Network Leading Scientific and Technological Achievement Award and 2025 IC3 Innovation
+                Competition Silver Award.</p>
+        </article>
+        <article class="home-highlights__card">
+            <h3>Contact</h3>
+            <p>Use the sidebar or the quick links above to reach my email, publications, and academic profiles.</p>
+        </article>
+    </div>
+</section>
+
+<style>
+    .home-hero {
+        margin: 0 0 2rem;
+        padding: 1.6rem;
+        border: 1px solid #e7edf3;
+        border-radius: 1.25rem;
+        background:
+            linear-gradient(135deg, rgba(20, 76, 136, 0.06), rgba(18, 117, 155, 0.02)),
+            #fff;
+        box-shadow: 0 18px 40px rgba(15, 23, 42, 0.06);
+    }
+
+    .home-hero__grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1.45fr) minmax(280px, 0.9fr);
+        gap: 1.5rem;
+        align-items: stretch;
+    }
+
+    .home-hero__copy {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .home-hero__eyebrow {
+        margin: 0 0 0.65rem;
+        color: #355c7d;
+        font-size: 0.92rem;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    }
+
+    .home-hero__title {
+        margin: 0;
+        font-size: clamp(2rem, 4vw, 3.3rem);
+        line-height: 1.05;
+    }
+
+    .home-hero__lead {
+        margin: 1rem 0 0;
+        max-width: 65ch;
+        color: #445468;
+        font-size: 1.05rem;
+        line-height: 1.75;
+    }
+
+    .home-hero__actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        margin-top: 1.35rem;
+    }
+
+    .home-hero__button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 2.6rem;
+        padding: 0.55rem 1rem;
+        border: 1px solid #cfd9e3;
+        border-radius: 999px;
+        background: #fff;
+        color: #17324d;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+
+    .home-hero__button:hover {
+        transform: translateY(-1px);
+        border-color: #9eb5c9;
+        box-shadow: 0 8px 18px rgba(15, 23, 42, 0.08);
+    }
+
+    .home-hero__button--primary {
+        background: #17324d;
+        border-color: #17324d;
+        color: #fff;
+    }
+
+    .home-hero__panel {
+        display: grid;
+        gap: 1rem;
+        padding: 1rem;
+        border: 1px solid #e3ebf2;
+        border-radius: 1rem;
+        background: rgba(255, 255, 255, 0.7);
+    }
+
+    .home-hero__facts {
+        display: grid;
+        gap: 0.8rem;
+    }
+
+    .home-hero__fact {
+        padding: 0.85rem 0.9rem;
+        border-radius: 0.85rem;
+        background: #f7fafc;
+        border: 1px solid #e7edf3;
+    }
+
+    .home-hero__fact span {
+        display: block;
+        margin-bottom: 0.25rem;
+        color: #6d7b8a;
+        font-size: 0.84rem;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+    }
+
+    .home-hero__fact strong {
+        color: #10253d;
+        font-size: 0.98rem;
+        line-height: 1.55;
+    }
+
+    .home-hero__preview {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 0.55rem;
+    }
+
+    .home-hero__thumb {
+        margin: 0;
+        overflow: hidden;
+        border-radius: 0.8rem;
+        aspect-ratio: 1 / 1;
+        background: #eef3f7;
+        border: 1px solid #dde6ef;
+    }
+
+    .home-hero__thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+
+    .home-highlights {
+        margin: 0 0 2rem;
+    }
+
+    .home-highlights__grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 1rem;
+    }
+
+    .home-highlights__card {
+        padding: 1rem 1.05rem;
+        border: 1px solid #e7edf3;
+        border-radius: 1rem;
+        background: #fff;
+        box-shadow: 0 10px 22px rgba(15, 23, 42, 0.04);
+    }
+
+    .home-highlights__card h3 {
+        margin: 0 0 0.45rem;
+        font-size: 1rem;
+    }
+
+    .home-highlights__card p {
+        margin: 0;
+        color: #4a596a;
+        line-height: 1.65;
+    }
+
+    @media (max-width: 900px) {
+
+        .home-hero__grid,
+        .home-highlights__grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    @media (max-width: 640px) {
+        .home-hero {
+            padding: 1.1rem;
+        }
+
+        .home-hero__actions {
+            gap: 0.6rem;
+        }
+
+        .home-hero__button {
+            width: 100%;
+        }
+    }
+</style>

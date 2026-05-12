@@ -11,7 +11,11 @@ I am a Ph.D. candidate at the School of Information Science and Technology, [Uni
 
 My research focuses on intelligent multi-Unmanned Aerial Vehicle (UAV) systems for assisted communication. I work on Multi-Agent Reinforcement Learning (MARL), Deep Reinforcement Learning (DRL), Large Language Model (LLM) empowered decision systems, and transfer reinforcement learning for cooperative trajectory planning, resource allocation, and efficient UAV swarm training. My goal is to build smarter and more efficient aerial communication networks for edge mobile intelligence.
 
-During my Ph.D., I have been engaged in several major engineering projects. In 2023, as a core technical contributor, I participated in the development of an onboard router for China's deep-space exploration satellites. The router was successfully deployed on the [``TianDu-1" satellite as part of the Chang'e-4 mission](https://www.toutiao.com/article/7500002986798727707/?wid=1776824479418), and I received the **2025 Future Network Leading Scientific and Technological Achievement Award** as the first student contributor. In 2024, I led the development of a lightweight integrated communication-computing-network-control onboard device for UAVs, and our team won the **2025 China International College Students' Innovation Competition Silver Award**.
+During my Ph.D., I have been engaged in several major engineering projects. In 2023, as a core technical contributor, I participated in the development of an onboard router for China's deep-space exploration satellites. The router was successfully deployed on the ["TianDu-1" satellite as part of the Chang'e-4 mission](https://www.toutiao.com/article/7500002986798727707/?wid=1776824479418), and I received the **2025 Future Network Leading Scientific and Technological Achievement Award** as the first student contributor. In 2024, I led the development of a lightweight integrated communication-computing-network-control onboard device for UAVs, and our team won the **2025 China International College Students' Innovation Competition Silver Award**.
+
+## Awards Highlights
+
+{% include awards_gallery.html %}
 
 # Research Interests
 
