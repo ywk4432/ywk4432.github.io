@@ -13,13 +13,6 @@ My research focuses on intelligent multi-Unmanned Aerial Vehicle (UAV) systems f
 
 During my Ph.D., I have been engaged in several major engineering projects. In 2023, as a core technical contributor, I participated in the development of an onboard router for China's deep-space exploration satellites. The router was successfully deployed on the [``TianDu-1" satellite as part of the Chang'e-4 mission](https://www.toutiao.com/article/7500002986798727707/?wid=1776824479418), and I received the **2025 Future Network Leading Scientific and Technological Achievement Award** as the first student contributor. In 2024, I led the development of a lightweight integrated communication-computing-network-control onboard device for UAVs, and our team won the **2025 China International College Students' Innovation Competition Silver Award**.
 
-# News
-
-- **Apr. 2026:** I updated my CV and homepage with recent publications, projects, and research progress.
-- **Jun. 2025:** I started a research visit at the School of Computing, National University of Singapore.
-- **2025:** Our deep-space internet router project received the Future Network Leading Scientific and Technological Achievement Award.
-- **2025:** Our UAV onboard equipment project won the Silver Award in the China International College Students' Innovation Competition.
-
 # Research Interests
 
 - **MARL algorithm design for multi-UAV systems:** autonomous cooperation, collaborative trajectory planning, and resource scheduling for UAV-assisted communications.
@@ -38,9 +31,9 @@ During my Ph.D., I have been engaged in several major engineering projects. In 2
 
 ## Under Review
 
-- **W. Yuan**, H. He, et al., "Energy Efficient Multi-UAV Trajectory Planning in Multi-Hotspot Scenarios: A Large Language Model Enhanced MARL Approach," *IEEE Transactions on Mobile Computing*.
-- **W. Yuan**, G. Cao, et al., "Multi-Objective Preference Adaptive Trajectory Planning in UAV-assisted Data Collection: A Hierarchical Transfer Reinforcement Learning Approach," *IEEE Transactions on Mobile Computing*.
-- **W. Yuan**, H. He, et al., "LLM Empowered Multi-UAV Coordinated Trajectory Planning for Post-Disaster Energy-Efficient Data Collection," *IEEE Transactions on Cognitive Communications and Networking*.
+- **W. Yuan**, H. He, et al., "Energy Efficient Multi-UAV Trajectory Planning in Multi-Hotspot Scenarios: A Large Language Model Enhanced MARL Approach." [TechRxiv](https://doi.org/10.36227/techrxiv.175373694.45432330/v1).
+- **W. Yuan**, G. Cao, et al., "Multi-Objective Preference Adaptive Trajectory Planning in UAV-assisted Data Collection: A Hierarchical Transfer Reinforcement Learning Approach." [TechRxiv](https://doi.org/10.36227/techrxiv.175373688.83435378/v1).
+- **W. Yuan**, H. He, et al., "LLM Empowered Multi-UAV Coordinated Trajectory Planning for Post-Disaster Energy-Efficient Data Collection." [TechRxiv](https://doi.org/10.36227/techrxiv.175751177.74717262/v1).
 
 ## Conferences
 
