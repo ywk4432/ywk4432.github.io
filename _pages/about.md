@@ -23,15 +23,15 @@ During my Ph.D., I have been engaged in several major engineering projects. In 2
 
 ## Journals
 
-1. **W. Yuan** et al., "Hierarchical Reinforcement Learning-Based Joint Trajectory Planning and Resource Allocation in UAV-Assisted IoT-Sensor Networks," *IEEE Transactions on Communications*, vol. 73, no. 12, pp. 14517-14533, Dec. 2025. doi: [10.1109/TCOMM.2025.3618699](https://doi.org/10.1109/TCOMM.2025.3618699).
-2. **W. Yuan**, G. Cao, et al., "Deep Transfer Reinforcement Learning Based Exploration Enhanced Multi-UAV Trajectory Planning," *IEEE Transactions on Communications*, vol. 74, pp. 1577-1593, 2026. doi: [10.1109/TCOMM.2025.3635773](https://doi.org/10.1109/TCOMM.2025.3635773).
-3. H. He, **W. Yuan**\*, et al., "Two-Timescale Trajectory Planning for UAV Formation Serving Hotspot in Unknown Environments with Complex Obstacles," *IEEE Transactions on Cognitive Communications and Networking*, vol. 12, pp. 4261-4276, 2026. doi: [10.1109/TCCN.2025.3637411](https://doi.org/10.1109/TCCN.2025.3637411).
-4. H. He, **W. Yuan**, S. Chen, X. Jiang, F. Yang, and J. Yang, "Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design," *IEEE Transactions on Communications*, vol. 72, no. 6, pp. 3736-3751, Jun. 2024. doi: [10.1109/TCOMM.2024.3361534](https://doi.org/10.1109/TCOMM.2024.3361534).
-5. H. He, **W. Yuan**, Y. Hou, S. Chen, X. Jiang, R. Zhu, and J. Yang, "Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks," *IEEE Transactions on Communications*, May 2024. doi: [10.1109/TCOMM.2024.3406373](https://doi.org/10.1109/TCOMM.2024.3406373).
+1. **W. Yuan**, H. He, et al., "Energy Efficient Multi-UAV Trajectory Planning in Multi-Hotspot Scenarios: A Large Language Model Enhanced MARL Approach," *IEEE Transactions on Mobile Computing*, accepted for publication. [TechRxiv](https://doi.org/10.36227/techrxiv.175373694.45432330/v1).
+2. **W. Yuan** et al., "Hierarchical Reinforcement Learning-Based Joint Trajectory Planning and Resource Allocation in UAV-Assisted IoT-Sensor Networks," *IEEE Transactions on Communications*, vol. 73, no. 12, pp. 14517-14533, Dec. 2025. doi: [10.1109/TCOMM.2025.3618699](https://doi.org/10.1109/TCOMM.2025.3618699).
+3. **W. Yuan**, G. Cao, et al., "Deep Transfer Reinforcement Learning Based Exploration Enhanced Multi-UAV Trajectory Planning," *IEEE Transactions on Communications*, vol. 74, pp. 1577-1593, 2026. doi: [10.1109/TCOMM.2025.3635773](https://doi.org/10.1109/TCOMM.2025.3635773).
+4. H. He, **W. Yuan**\*, et al., "Two-Timescale Trajectory Planning for UAV Formation Serving Hotspot in Unknown Environments with Complex Obstacles," *IEEE Transactions on Cognitive Communications and Networking*, vol. 12, pp. 4261-4276, 2026. doi: [10.1109/TCCN.2025.3637411](https://doi.org/10.1109/TCCN.2025.3637411).
+5. H. He, **W. Yuan**, S. Chen, X. Jiang, F. Yang, and J. Yang, "Deep Reinforcement Learning-Based Distributed 3D UAV Trajectory Design," *IEEE Transactions on Communications*, vol. 72, no. 6, pp. 3736-3751, Jun. 2024. doi: [10.1109/TCOMM.2024.3361534](https://doi.org/10.1109/TCOMM.2024.3361534).
+6. H. He, **W. Yuan**, Y. Hou, S. Chen, X. Jiang, R. Zhu, and J. Yang, "Onboard Processing Aided Transmission Delay Minimization for LEO Satellite Networks," *IEEE Transactions on Communications*, May 2024. doi: [10.1109/TCOMM.2024.3406373](https://doi.org/10.1109/TCOMM.2024.3406373).
 
 ## Under Review
 
-- **W. Yuan**, H. He, et al., "Energy Efficient Multi-UAV Trajectory Planning in Multi-Hotspot Scenarios: A Large Language Model Enhanced MARL Approach." [TechRxiv](https://doi.org/10.36227/techrxiv.175373694.45432330/v1).
 - **W. Yuan**, G. Cao, et al., "Multi-Objective Preference Adaptive Trajectory Planning in UAV-assisted Data Collection: A Hierarchical Transfer Reinforcement Learning Approach." [TechRxiv](https://doi.org/10.36227/techrxiv.175373688.83435378/v1).
 - **W. Yuan**, H. He, et al., "LLM Empowered Multi-UAV Coordinated Trajectory Planning for Post-Disaster Energy-Efficient Data Collection." [TechRxiv](https://doi.org/10.36227/techrxiv.175751177.74717262/v1).
 
