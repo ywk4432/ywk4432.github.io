@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenke Yuan"
+title: "Wenke Yuan 袁文科"
 author_profile: true
 redirect_from:
   - /about/
